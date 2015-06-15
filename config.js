@@ -1,0 +1,7 @@
+/**
+ * Configuration for facebook
+ */
+
+module.exports = {
+	access_token: 'CAAE134Gqr7YBAGIy8Dm8cspWctZCqpdWgikYpgFAPwoR7UWdUTg0Yg5BuE8ItEhGFLDd41OFAZCOrL5bY7RMGCHAZCPraUwcjuJe2ibM3WWvcZBP8Sb9QmZBQTTMZCsW5O5zAzxkJvQZBsa9Widc6p3HLfJU7b7FnfHBVu3GlN6SmDDK4RkZBmUaymSYbMI9P0EGEZAg9f3EagCZC6hFDnmUZCG09QQpD82FF4ZD'
+};
