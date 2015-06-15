@@ -7,11 +7,13 @@ change the token in the config file
 
 commads to run in terminal
 
-git clone https://github.com/cs12b015/facebook-posts-extractor.git
+```bash
+$ git clone https://github.com/cs12b015/facebook-posts-extractor.git
 
-cd facebook-posts-extractor
+$ cd facebook-posts-extractor
 
-npm install
+$ npm install
 
-node app.js
+$ node app.js
+```
 
